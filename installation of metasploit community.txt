@@ -1,0 +1,16 @@
+addition 	service 
+ link  https://www.rapid7.com/products/metasploit/download/pro/cdls 
+cd download 
+ls
+file name 
+to change permission 
+for executeable mode 
+ command: chmod +x file name 
+file name become green that means it is exicuteable green
+run command for inasallation 
+[ ./file name ]
+to start 
+ service metasploit start 
+ open browser
+https://localhost:3790
+

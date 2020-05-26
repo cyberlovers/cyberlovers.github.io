@@ -1,0 +1,26 @@
+go to the location where files veil located 
+/opt/Veil 
+start veil 
+use list command  to list 
+"use" command to enter in program 
+enter command : use 1
+list 
+use 15 
+ 
+for testing payload
+ search in google: nodistribution
+upload file using file location 
+
+stage 2 
+
+listening targrt
+  
+stage 3 
+ 
+ hosting payload on web server 
+1: using  kali website 
+./var/www/html 
+  create a folder name as eval-files 
+inside this put payload by copyinng it from ./var/lib/veil-evasion/output/compiled/
+start apache webserver using command as 
+service apache2 start 

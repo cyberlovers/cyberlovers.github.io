@@ -1,0 +1,9 @@
+open terminal 
+ cd otp/ 
+ step 1 = git clone https://github.com/Veil-Framework/Veil.git
+step 2 = ./config/setup.sh --force --silent
+
+--force ~ If something goes wrong, this will overwrite detecting any previous installs. Useful when there is a setup package update.
+--silent ~ This will perform an unattended installation of everything, as it will automate all the steps, so there is no interaction for the user.
+
+step 3 = ./Veil.py --setup 

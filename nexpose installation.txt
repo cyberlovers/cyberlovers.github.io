@@ -1,0 +1,8 @@
+https://www.rapid7.com/product/nexpose/
+ stepp 1
+service postgresql stop 
+ step 2
+change file permission for exicuteable version 
+ run command " chmod +x file name "
+step 3
+ to run file "./filename"
